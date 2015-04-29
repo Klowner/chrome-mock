@@ -1,0 +1,17 @@
+{
+	"disallowMixedSpacesAndTabs": "smart",
+	"disallowSpaceBeforePostfixUnaryOperators": true,
+	"disallowTrailingComma": true,
+	"disallowTrailingWhitespace": true,
+	"disallowYodaConditions": true,
+	"requireCommaBeforeLineBreak": true,
+	"requireDotNotation": true,
+	"requireSemicolons": true,
+	"requireSpaceAfterBinaryOperators": true,
+	"requireSpaceAfterKeywords": true,
+	"requireSpaceBeforeBinaryOperators": true,
+	"requireSpaceBeforeBlockStatements": true,
+	"requireSpaceBeforeObjectValues": true,
+	"requireSpaceBetweenArguments": true,
+	"validateIndentation": 2
+}
